@@ -27,6 +27,7 @@ main article:nth-child(even) h2 {
 
 main article p {
   color: var(--color-sil);
+  text-align: justify;
 }
 main article:nth-child(even) p {
   color: var(--color-joq);
