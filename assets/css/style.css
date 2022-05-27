@@ -1,0 +1,17 @@
+@import 'normalize.css';
+@import 'header.css';
+@import 'main.css';
+@import 'footer.css';
+
+:root {
+  --color-sil: rgb(65, 207, 250);
+  --color-joq: rgb(255, 206, 56);
+  --width1: 80%;
+  --width2: 70%;
+  --bgcolor1: rgba(0, 0, 0, 0.7);
+}
+
+.brand {
+  margin-left: 2rem;
+  font-size: xx-large;
+}
